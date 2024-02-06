@@ -1,0 +1,726 @@
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:36:02 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:36:02 UTC] PHP Warning:  Undefined array key "email" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 117
+[06-Feb-2024 13:36:02 UTC] PHP Warning:  Undefined array key "first_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 122
+[06-Feb-2024 13:36:02 UTC] PHP Warning:  Undefined array key "last_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 127
+[06-Feb-2024 13:36:02 UTC] PHP Warning:  Undefined array key "date_of_birth" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 132
+[06-Feb-2024 13:36:02 UTC] PHP Warning:  Undefined array key "phone_number" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 137
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:36:10 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:37:41 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:37:41 UTC] ERROR PostmanMessage: Unknown content-type: application/pdf
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(%PDF-1.7): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(%����): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(7 0 obj): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(&lt;&lt; /Type /Page /Parent 1 0 R /LastModified (D:20240206133741+00'00') /Resources 2 0 R /MediaBox [0.000000 0.000000 595.276000 841.890000] /CropBox [0.000000 0.000000 595.276000 841.890000] /BleedBox [0.000000 0.000000 595.276000 841.890000] /TrimBox [0.000000 0.000000 595.276000 841.890000] /ArtBox [0.000000 0.000000 595.276000 841.890000] /Contents 8 0 R /Rotate 0 /Group &lt;&lt; /Type /Group /S /Transparency /CS /DeviceRGB &gt;&gt; /Annots [ 6 0 R ] /PZ 1 &gt;&gt;): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(endobj): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(8 0 obj): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Warning:  file_get_contents(&lt;&lt;/Filter /FlateDecode /Length 491&gt;&gt; stream): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:41 UTC] PHP Fatal error:  Uncaught ValueError: file_get_contents(): Argument #1 ($filename) must not contain any null bytes in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php:515
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php(515): file_get_contents('x\x9C\xAD\x94\xCDR\xDB0\x10\x80\xEF~\x8A=\xC2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanZendMailEngine.php(186): PostmanMessage->addAttachmentsToMail(Object(Postman_Zend_Mail))
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(244): PostmanZendMailEngine->send(Object(PostmanMessage))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(60): PostmanWpMail->sendMessage(Object(PostmanMessage), Object(PostmanEmailLog))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMailBinder.php(121): PostmanWpMail->send('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, '%PDF-1.7\n%\xE2\xE3\xCF\xD3\n...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(72): wp_mail('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, '%PDF-1.7\n%\xE2\xE3\xCF\xD3\n...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(59): send_certificate_email('dimig12@abv.bg')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(324): handle_form_submission('')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(643): do_action('init')
+#11 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(100): require_once('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#13 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#14 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#15 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:37:55 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:37:55 UTC] PHP Warning:  Undefined array key "email" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 117
+[06-Feb-2024 13:37:55 UTC] PHP Warning:  Undefined array key "first_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 122
+[06-Feb-2024 13:37:55 UTC] PHP Warning:  Undefined array key "last_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 127
+[06-Feb-2024 13:37:55 UTC] PHP Warning:  Undefined array key "date_of_birth" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 132
+[06-Feb-2024 13:37:55 UTC] PHP Warning:  Undefined array key "phone_number" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 137
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:38:11 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:38:41 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:38:41 UTC] ERROR PostmanMessage: Unknown content-type: application/pdf
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(%PDF-1.7): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(%����): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(7 0 obj): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(&lt;&lt; /Type /Page /Parent 1 0 R /LastModified (D:20240206133841+00'00') /Resources 2 0 R /MediaBox [0.000000 0.000000 595.276000 841.890000] /CropBox [0.000000 0.000000 595.276000 841.890000] /BleedBox [0.000000 0.000000 595.276000 841.890000] /TrimBox [0.000000 0.000000 595.276000 841.890000] /ArtBox [0.000000 0.000000 595.276000 841.890000] /Contents 8 0 R /Rotate 0 /Group &lt;&lt; /Type /Group /S /Transparency /CS /DeviceRGB &gt;&gt; /Annots [ 6 0 R ] /PZ 1 &gt;&gt;): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(endobj): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(8 0 obj): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Warning:  file_get_contents(&lt;&lt;/Filter /FlateDecode /Length 491&gt;&gt; stream): Failed to open stream: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:38:41 UTC] PHP Fatal error:  Uncaught ValueError: file_get_contents(): Argument #1 ($filename) must not contain any null bytes in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php:515
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php(515): file_get_contents('x\x9C\xAD\x94\xCDR\xDB0\x10\x80\xEF~\x8A=\xC2...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanZendMailEngine.php(186): PostmanMessage->addAttachmentsToMail(Object(Postman_Zend_Mail))
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(244): PostmanZendMailEngine->send(Object(PostmanMessage))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(60): PostmanWpMail->sendMessage(Object(PostmanMessage), Object(PostmanEmailLog))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMailBinder.php(121): PostmanWpMail->send('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, '%PDF-1.7\n%\xE2\xE3\xCF\xD3\n...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(72): wp_mail('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, '%PDF-1.7\n%\xE2\xE3\xCF\xD3\n...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(59): send_certificate_email('dimig12@abv.bg')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(324): handle_form_submission('')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(643): do_action('init')
+#11 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(100): require_once('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#13 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#14 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#15 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:39:12 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:40:14 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:40:15 UTC] ERROR PostmanMessage: Unknown content-type: application/pdf
+[06-Feb-2024 13:40:15 UTC] PHP Fatal error:  Uncaught ValueError: file_get_contents(): Argument #1 ($filename) must not contain any null bytes in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php:515
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php(515): file_get_contents('%PDF-1.7\n%\xE2\xE3\xCF\xD3\n...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanZendMailEngine.php(186): PostmanMessage->addAttachmentsToMail(Object(Postman_Zend_Mail))
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(244): PostmanZendMailEngine->send(Object(PostmanMessage))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(60): PostmanWpMail->sendMessage(Object(PostmanMessage), Object(PostmanEmailLog))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMailBinder.php(121): PostmanWpMail->send('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(79): wp_mail('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(59): send_certificate_email('dimig12@abv.bg')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(324): handle_form_submission('')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(643): do_action('init')
+#11 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(100): require_once('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#13 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#14 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#15 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:40:18 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:40:18 UTC] PHP Warning:  Undefined array key "email" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 125
+[06-Feb-2024 13:40:18 UTC] PHP Warning:  Undefined array key "first_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 130
+[06-Feb-2024 13:40:18 UTC] PHP Warning:  Undefined array key "last_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 135
+[06-Feb-2024 13:40:18 UTC] PHP Warning:  Undefined array key "date_of_birth" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 140
+[06-Feb-2024 13:40:18 UTC] PHP Warning:  Undefined array key "phone_number" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 145
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:40:21 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:40:21 UTC] ERROR PostmanMessage: Unknown content-type: application/pdf
+[06-Feb-2024 13:40:21 UTC] PHP Fatal error:  Uncaught ValueError: file_get_contents(): Argument #1 ($filename) must not contain any null bytes in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php:515
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php(515): file_get_contents('%PDF-1.7\n%\xE2\xE3\xCF\xD3\n...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanZendMailEngine.php(186): PostmanMessage->addAttachmentsToMail(Object(Postman_Zend_Mail))
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(244): PostmanZendMailEngine->send(Object(PostmanMessage))
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMail.php(60): PostmanWpMail->sendMessage(Object(PostmanMessage), Object(PostmanEmailLog))
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/PostmanWpMailBinder.php(121): PostmanWpMail->send('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(79): wp_mail('dimig12@abv.bg', 'Congratulations...', 'Congratulations...', Array, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php(59): send_certificate_email('dimig12@abv.bg')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(324): handle_form_submission('')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(643): do_action('init')
+#11 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(100): require_once('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#13 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#14 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#15 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:13 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:17 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:41:17 UTC] PHP Warning:  Undefined array key "email" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 126
+[06-Feb-2024 13:41:17 UTC] PHP Warning:  Undefined array key "first_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 131
+[06-Feb-2024 13:41:17 UTC] PHP Warning:  Undefined array key "last_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 136
+[06-Feb-2024 13:41:17 UTC] PHP Warning:  Undefined array key "date_of_birth" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 141
+[06-Feb-2024 13:41:17 UTC] PHP Warning:  Undefined array key "phone_number" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 146
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:18 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:41:19 UTC] ERROR PostmanMessage: Unknown content-type: application/pdf
+[06-Feb-2024 13:41:19 UTC] PHP Warning:  file_get_contents(JVBERi0xLjcKJeLjz9MKNyAwIG9iago8PCAvVHlwZSAvUGFnZSAvUGFyZW50IDEgMCBSIC9MYXN0
+TW9kaWZpZWQgKEQ6MjAyNDAyMDYxMzQxMTkrMDAnMDAnKSAvUmVzb3VyY2VzIDIgMCBSIC9NZWRp
+YUJveCBbMC4wMDAwMDAgMC4wMDAwMDAgNTk1LjI3NjAwMCA4NDEuODkwMDAwXSAvQ3JvcEJveCBb
+MC4wMDAwMDAgMC4wMDAwMDAgNTk1LjI3NjAwMCA4NDEuODkwMDAwXSAvQmxlZWRCb3ggWzAuMDAw
+MDAwIDAuMDAwMDAwIDU5NS4yNzYwMDAgODQxLjg5MDAwMF0gL1RyaW1Cb3ggWzAuMDAwMDAwIDAu
+MDAwMDAwIDU5NS4yNzYwMDAgODQxLjg5MDAwMF0gL0FydEJveCBbMC4wMDAwMDAgMC4wMDAwMDAg
+NTk1LjI3NjAwMCA4NDEuODkwMDAwXSAvQ29udGVudHMgOCAwIFIgL1JvdGF0ZSAwIC9Hcm91cCA8
+PCAvVHlwZSAvR3JvdXAgL1MgL1RyYW5zcGFyZW5jeSAvQ1MgL0RldmljZVJHQiA+PiAvQW5ub3Rz
+IFsgNiAwIFIgXSAvUFogMSA+PgplbmRvYmoKOCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2Rl
+IC9MZW5ndGggNDkxPj4gc3RyZWFtCnicrZTNUtswEIDvfoo9wgFFWmltKZe2EGCGQ4dSHzoDHBxb
+/unYGBwHT96+wk4MAykHh7U12llptZ+00nJGAXcCHXC4cu0v3N67LnHt0rXMOw1hdiFAIOO9QJjC
+eejxqY5P4wCfuiJ/v6LYGfgH5eNQ4BOTpMgPIK682Z9QwaL2frlv8p56M4LwJ+zITW5e4TrnB84q
+jM8C9Hte5Xi5kdJAmMDt0Zlt2iIt4qi1UKfwI84L+2wr+9Ae30N4NfJMzNl+HiOZDnSPIzQjo7XG
+ASfMixW4v60h7sk20OZRC98GGfs8WsFqHcd2tUrXZbmBuK4eS9vaBOp1A2ndVGzcwAGkKDnDwdk3
+TiVUSAPqYntkp0XT5nNAjuqE44lQXxNXMWFUH9cXzHAy/jZj51VUlHNIiqrIBH6Pls9smX1JTHTO
+BvuYUjIiQ2Kbluu8frDwc10tbTMHro1CIQhpDPv6DidcErkfh2lJw6ND7JUBpe5s49K83EB4dr24
+gLujrutYGz8mKaub7O54hDrgDTo5vCbp92ehac+Cu0nJnnozKjeX8NYfJ/i/EO/8PIWMXFXQBKiZ
+VL6iACogQhaQL8Vbcwm/D43tPX023mTw3zupiDOlVE/EXwqXcUT9PYDPRcAMxO4mwEH1+B/AioCP
+CmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PCAvVHlwZSAvUGFnZXMgL0tpZHMgWyA3IDAgUiBd
+IC9Db3VudCAxID4+CmVuZG9iagozIDAgb2JqCjw8L1R5cGUgL0ZvbnQgL1N1YnR5cGUgL1R5cGUx
+IC9CYXNlRm9udCAvSGVsdmV0aWNhIC9OYW1lIC9GMSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGlu
+ZyA+PgplbmRvYmoKNSAwIG9iago8PC9UeXBlIC9Gb250IC9TdWJ0eXBlIC9UeXBlMSAvQmFzZUZv
+bnQgL0hlbHZldGljYS1Cb2xkIC9OYW1lIC9GMiAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyA+
+PgplbmRvYmoKNCAwIG9iago8PCAvVHlwZSAvWE9iamVjdCAvU3VidHlwZSAvRm9ybSAvRm9ybVR5
+cGUgMSAvRmlsdGVyIC9GbGF0ZURlY29kZSAvQkJveCBbMC4wMDAwMDAgMC4wMDAwMDAgNTk1LjI3
+NjAwMCA3Ni41MzU0MzNdIC9NYXRyaXggWzEgMCAwIDEgMCAwXSAvUmVzb3VyY2VzIDw8IC9Qcm9j
+U2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJXSAvRm9udCA8PCAvRjIgNSAw
+IFIgL0YxIDMgMCBSID4+ID4+IC9MZW5ndGggMTcxID4+IHN0cmVhbQp4nKWPPwvCMBDF93yKN+oS
+Lxfzp2tBC93UbKVbURAd7NKv76VQLSiCGngkedzv3V2ZsNoyjNE0HqQjNkmRdmH8DiDUojOaVq5O
+VIlOSpWZNDD0LXnDA3l99CdIsIT1T2+Q3Owa6zV5LgqGjTpaZvJIHZoFli1Snct2MkB0bwaYwrpP
+3fcV5jz/wOcNJ06tWTtT+OhgreYQmAKucI51cN6auX3B4d/ed1ogXIsKZW5kc3RyZWFtCmVuZG9i
+agoyIDAgb2JqCjw8IC9Qcm9jU2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJ
+XSAvRm9udCA8PCAvRjEgMyAwIFIgL0YyIDUgMCBSID4+IC9YT2JqZWN0IDw8IC9YVDQgNCAwIFIg
+Pj4gPj4KZW5kb2JqCjYgMCBvYmoKPDwvVHlwZSAvQW5ub3QgL1N1YnR5cGUgL0xpbmsgL1JlY3Qg
+WzIuODM1MDAwIDEuMDAwMDAwIDE5LjAwNTAwMCAyLjE1NjAwMF0gL1AgNyAwIFIgL05NICgwMDAx
+LTAwMDApIC9NIChEOjIwMjQwMjA2MTM0MTE5KzAwJzAwJykgL0YgNCAvQm9yZGVyIFswIDAgMF0g
+L0EgPDwvUyAvVVJJIC9VUkkgKGh0dHA6Ly93d3cudGNwZGYub3JnKT4+IC9IIC9JPj4KZW5kb2Jq
+CjkgMCBvYmoKPDwgL1RpdGxlICj+/wBDAGUAcgB0AGkAZgBpAGMAYQB0AGUpIC9BdXRob3IgKP7/
+AFkAbwB1AHIAIABOAGEAbQBlKSAvU3ViamVjdCAo/v8AQwBlAHIAdABpAGYAaQBjAGEAdABlKSAv
+S2V5d29yZHMgKP7/AEMAZQByAHQAaQBmAGkAYwBhAHQAZQAsACAAVABDAFAARABGACwAIABQAEQA
+RgAsACAAVwBvAHIAZABQAHIAZQBzAHMpIC9DcmVhdG9yICj+/wBUAEMAUABEAEYpIC9Qcm9kdWNl
+ciAo/v8AVABDAFAARABGACAANgAuADMALgAyACAAXCgAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHQA
+YwBwAGQAZgAuAG8AcgBnAFwpKSAvQ3JlYXRpb25EYXRlIChEOjIwMjQwMjA2MTM0MTE5KzAwJzAw
+JykgL01vZERhdGUgKEQ6MjAyNDAyMDYxMzQxMTkrMDAnMDAnKSAvVHJhcHBlZCAvRmFsc2UgPj4K
+ZW5kb2JqCjEwIDAgb2JqCjw8IC9UeXBlIC9NZXRhZGF0YSAvU3VidHlwZSAvWE1MIC9MZW5ndGgg
+NDMyNyA+PiBzdHJlYW0KPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6
+TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0i
+QWRvYmUgWE1QIENvcmUgNC4yLjEtYzA0MyA1Mi4zNzI3MjgsIDIwMDkvMDEvMTgtMTU6MDg6MDQi
+PgoJPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1z
+eW50YXgtbnMjIj4KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpkYz0iaHR0
+cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPgoJCQk8ZGM6Zm9ybWF0PmFwcGxpY2F0aW9u
+L3BkZjwvZGM6Zm9ybWF0PgoJCQk8ZGM6dGl0bGU+CgkJCQk8cmRmOkFsdD4KCQkJCQk8cmRmOmxp
+IHhtbDpsYW5nPSJ4LWRlZmF1bHQiPkNlcnRpZmljYXRlPC9yZGY6bGk+CgkJCQk8L3JkZjpBbHQ+
+CgkJCTwvZGM6dGl0bGU+CgkJCTxkYzpjcmVhdG9yPgoJCQkJPHJkZjpTZXE+CgkJCQkJPHJkZjps
+aT5Zb3VyIE5hbWU8L3JkZjpsaT4KCQkJCTwvcmRmOlNlcT4KCQkJPC9kYzpjcmVhdG9yPgoJCQk8
+ZGM6ZGVzY3JpcHRpb24+CgkJCQk8cmRmOkFsdD4KCQkJCQk8cmRmOmxpIHhtbDpsYW5nPSJ4LWRl
+ZmF1bHQiPkNlcnRpZmljYXRlPC9yZGY6bGk+CgkJCQk8L3JkZjpBbHQ+CgkJCTwvZGM6ZGVzY3Jp
+cHRpb24+CgkJCTxkYzpzdWJqZWN0PgoJCQkJPHJkZjpCYWc+CgkJCQkJPHJkZjpsaT5DZXJ0aWZp
+Y2F0ZSwgVENQREYsIFBERiwgV29yZFByZXNzPC9yZGY6bGk+CgkJCQk8L3JkZjpCYWc+CgkJCTwv
+ZGM6c3ViamVjdD4KCQk8L3JkZjpEZXNjcmlwdGlvbj4KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjph
+Ym91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgoJCQk8eG1w
+OkNyZWF0ZURhdGU+MjAyNC0wMi0wNlQxMzo0MToxOSswMDowMDwveG1wOkNyZWF0ZURhdGU+CgkJ
+CTx4bXA6Q3JlYXRvclRvb2w+VENQREY8L3htcDpDcmVhdG9yVG9vbD4KCQkJPHhtcDpNb2RpZnlE
+YXRlPjIwMjQtMDItMDZUMTM6NDE6MTkrMDA6MDA8L3htcDpNb2RpZnlEYXRlPgoJCQk8eG1wOk1l
+dGFkYXRhRGF0ZT4yMDI0LTAyLTA2VDEzOjQxOjE5KzAwOjAwPC94bXA6TWV0YWRhdGFEYXRlPgoJ
+CTwvcmRmOkRlc2NyaXB0aW9uPgoJCTxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5z
+OnBkZj0iaHR0cDovL25zLmFkb2JlLmNvbS9wZGYvMS4zLyI+CgkJCTxwZGY6S2V5d29yZHM+Q2Vy
+dGlmaWNhdGUsIFRDUERGLCBQREYsIFdvcmRQcmVzczwvcGRmOktleXdvcmRzPgoJCQk8cGRmOlBy
+b2R1Y2VyPlRDUERGIDYuMy4yIChodHRwOi8vd3d3LnRjcGRmLm9yZyk8L3BkZjpQcm9kdWNlcj4K
+CQk8L3JkZjpEZXNjcmlwdGlvbj4KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxu
+czp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyI+CgkJCTx4bXBNTTpEb2N1
+bWVudElEPnV1aWQ6NzIwODg4MGMtY2E0YS1hNDY1LWUzZmMtZTQ2NGQxMDRhNGQzPC94bXBNTTpE
+b2N1bWVudElEPgoJCQk8eG1wTU06SW5zdGFuY2VJRD51dWlkOjcyMDg4ODBjLWNhNGEtYTQ2NS1l
+M2ZjLWU0NjRkMTA0YTRkMzwveG1wTU06SW5zdGFuY2VJRD4KCQk8L3JkZjpEZXNjcmlwdGlvbj4K
+CQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpwZGZhRXh0ZW5zaW9uPSJodHRw
+Oi8vd3d3LmFpaW0ub3JnL3BkZmEvbnMvZXh0ZW5zaW9uLyIgeG1sbnM6cGRmYVNjaGVtYT0iaHR0
+cDovL3d3dy5haWltLm9yZy9wZGZhL25zL3NjaGVtYSMiIHhtbG5zOnBkZmFQcm9wZXJ0eT0iaHR0
+cDovL3d3dy5haWltLm9yZy9wZGZhL25zL3Byb3BlcnR5IyI+CgkJCTxwZGZhRXh0ZW5zaW9uOnNj
+aGVtYXM+CgkJCQk8cmRmOkJhZz4KCQkJCQk8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJlc291cmNl
+Ij4KCQkJCQkJPHBkZmFTY2hlbWE6bmFtZXNwYWNlVVJJPmh0dHA6Ly9ucy5hZG9iZS5jb20vcGRm
+LzEuMy88L3BkZmFTY2hlbWE6bmFtZXNwYWNlVVJJPgoJCQkJCQk8cGRmYVNjaGVtYTpwcmVmaXg+
+cGRmPC9wZGZhU2NoZW1hOnByZWZpeD4KCQkJCQkJPHBkZmFTY2hlbWE6c2NoZW1hPkFkb2JlIFBE
+RiBTY2hlbWE8L3BkZmFTY2hlbWE6c2NoZW1hPgoJCQkJCTwvcmRmOmxpPgoJCQkJCTxyZGY6bGkg
+cmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgoJCQkJCQk8cGRmYVNjaGVtYTpuYW1lc3BhY2VVUkk+
+aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLzwvcGRmYVNjaGVtYTpuYW1lc3BhY2VVUkk+
+CgkJCQkJCTxwZGZhU2NoZW1hOnByZWZpeD54bXBNTTwvcGRmYVNjaGVtYTpwcmVmaXg+CgkJCQkJ
+CTxwZGZhU2NoZW1hOnNjaGVtYT5YTVAgTWVkaWEgTWFuYWdlbWVudCBTY2hlbWE8L3BkZmFTY2hl
+bWE6c2NoZW1hPgoJCQkJCQk8cGRmYVNjaGVtYTpwcm9wZXJ0eT4KCQkJCQkJCTxyZGY6U2VxPgoJ
+CQkJCQkJCTxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgoJCQkJCQkJCQk8cGRmYVBy
+b3BlcnR5OmNhdGVnb3J5PmludGVybmFsPC9wZGZhUHJvcGVydHk6Y2F0ZWdvcnk+CgkJCQkJCQkJ
+CTxwZGZhUHJvcGVydHk6ZGVzY3JpcHRpb24+VVVJRCBiYXNlZCBpZGVudGlmaWVyIGZvciBzcGVj
+aWZpYyBpbmNhcm5hdGlvbiBvZiBhIGRvY3VtZW50PC9wZGZhUHJvcGVydHk6ZGVzY3JpcHRpb24+
+CgkJCQkJCQkJCTxwZGZhUHJvcGVydHk6bmFtZT5JbnN0YW5jZUlEPC9wZGZhUHJvcGVydHk6bmFt
+ZT4KCQkJCQkJCQkJPHBkZmFQcm9wZXJ0eTp2YWx1ZVR5cGU+VVJJPC9wZGZhUHJvcGVydHk6dmFs
+dWVUeXBlPgoJCQkJCQkJCTwvcmRmOmxpPgoJCQkJCQkJPC9yZGY6U2VxPgoJCQkJCQk8L3BkZmFT
+Y2hlbWE6cHJvcGVydHk+CgkJCQkJPC9yZGY6bGk+CgkJCQkJPHJkZjpsaSByZGY6cGFyc2VUeXBl
+PSJSZXNvdXJjZSI+CgkJCQkJCTxwZGZhU2NoZW1hOm5hbWVzcGFjZVVSST5odHRwOi8vd3d3LmFp
+aW0ub3JnL3BkZmEvbnMvaWQvPC9wZGZhU2NoZW1hOm5hbWVzcGFjZVVSST4KCQkJCQkJPHBkZmFT
+Y2hlbWE6cHJlZml4PnBkZmFpZDwvcGRmYVNjaGVtYTpwcmVmaXg+CgkJCQkJCTxwZGZhU2NoZW1h
+OnNjaGVtYT5QREYvQSBJRCBTY2hlbWE8L3BkZmFTY2hlbWE6c2NoZW1hPgoJCQkJCQk8cGRmYVNj
+aGVtYTpwcm9wZXJ0eT4KCQkJCQkJCTxyZGY6U2VxPgoJCQkJCQkJCTxyZGY6bGkgcmRmOnBhcnNl
+VHlwZT0iUmVzb3VyY2UiPgoJCQkJCQkJCQk8cGRmYVByb3BlcnR5OmNhdGVnb3J5PmludGVybmFs
+PC9wZGZhUHJvcGVydHk6Y2F0ZWdvcnk+CgkJCQkJCQkJCTxwZGZhUHJvcGVydHk6ZGVzY3JpcHRp
+b24+UGFydCBvZiBQREYvQSBzdGFuZGFyZDwvcGRmYVByb3BlcnR5OmRlc2NyaXB0aW9uPgoJCQkJ
+CQkJCQk8cGRmYVByb3BlcnR5Om5hbWU+cGFydDwvcGRmYVByb3BlcnR5Om5hbWU+CgkJCQkJCQkJ
+CTxwZGZhUHJvcGVydHk6dmFsdWVUeXBlPkludGVnZXI8L3BkZmFQcm9wZXJ0eTp2YWx1ZVR5cGU+
+CgkJCQkJCQkJPC9yZGY6bGk+CgkJCQkJCQkJPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJj
+ZSI+CgkJCQkJCQkJCTxwZGZhUHJvcGVydHk6Y2F0ZWdvcnk+aW50ZXJuYWw8L3BkZmFQcm9wZXJ0
+eTpjYXRlZ29yeT4KCQkJCQkJCQkJPHBkZmFQcm9wZXJ0eTpkZXNjcmlwdGlvbj5BbWVuZG1lbnQg
+b2YgUERGL0Egc3RhbmRhcmQ8L3BkZmFQcm9wZXJ0eTpkZXNjcmlwdGlvbj4KCQkJCQkJCQkJPHBk
+ZmFQcm9wZXJ0eTpuYW1lPmFtZDwvcGRmYVByb3BlcnR5Om5hbWU+CgkJCQkJCQkJCTxwZGZhUHJv
+cGVydHk6dmFsdWVUeXBlPlRleHQ8L3BkZmFQcm9wZXJ0eTp2YWx1ZVR5cGU+CgkJCQkJCQkJPC9y
+ZGY6bGk+CgkJCQkJCQkJPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+CgkJCQkJCQkJ
+CTxwZGZhUHJvcGVydHk6Y2F0ZWdvcnk+aW50ZXJuYWw8L3BkZmFQcm9wZXJ0eTpjYXRlZ29yeT4K
+CQkJCQkJCQkJPHBkZmFQcm9wZXJ0eTpkZXNjcmlwdGlvbj5Db25mb3JtYW5jZSBsZXZlbCBvZiBQ
+REYvQSBzdGFuZGFyZDwvcGRmYVByb3BlcnR5OmRlc2NyaXB0aW9uPgoJCQkJCQkJCQk8cGRmYVBy
+b3BlcnR5Om5hbWU+Y29uZm9ybWFuY2U8L3BkZmFQcm9wZXJ0eTpuYW1lPgoJCQkJCQkJCQk8cGRm
+YVByb3BlcnR5OnZhbHVlVHlwZT5UZXh0PC9wZGZhUHJvcGVydHk6dmFsdWVUeXBlPgoJCQkJCQkJ
+CTwvcmRmOmxpPgoJCQkJCQkJPC9yZGY6U2VxPgoJCQkJCQk8L3BkZmFTY2hlbWE6cHJvcGVydHk+
+CgkJCQkJPC9yZGY6bGk+CgkJCQk8L3JkZjpCYWc+CgkJCTwvcGRmYUV4dGVuc2lvbjpzY2hlbWFz
+PgoJCTwvcmRmOkRlc2NyaXB0aW9uPgoJPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KPD94cGFja2V0
+IGVuZD0idyI/PgplbmRzdHJlYW0KZW5kb2JqCjExIDAgb2JqCjw8IC9UeXBlIC9DYXRhbG9nIC9W
+ZXJzaW9uIC8xLjcgL1BhZ2VzIDEgMCBSIC9OYW1lcyA8PCA+PiAvVmlld2VyUHJlZmVyZW5jZXMg
+PDwgL0RpcmVjdGlvbiAvTDJSID4+IC9QYWdlTGF5b3V0IC9TaW5nbGVQYWdlIC9QYWdlTW9kZSAv
+VXNlTm9uZSAvT3BlbkFjdGlvbiBbNyAwIFIgL0ZpdEggbnVsbF0gL01ldGFkYXRhIDEwIDAgUiA+
+PgplbmRvYmoKeHJlZgowIDEyCjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMTA0NCAwMDAwMCBu
+IAowMDAwMDAxNzY5IDAwMDAwIG4gCjAwMDAwMDExMDMgMDAwMDAgbiAKMDAwMDAwMTMyMCAwMDAw
+MCBuIAowMDAwMDAxMjA5IDAwMDAwIG4gCjAwMDAwMDE4OTQgMDAwMDAgbiAKMDAwMDAwMDAxNSAw
+MDAwMCBuIAowMDAwMDAwNDgzIDAwMDAwIG4gCjAwMDAwMDIxMTAgMDAwMDAgbiAKMDAwMDAwMjUx
+NSAwMDAwMCBuIAowMDAwMDA2OTI1IDAwMDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgMTIgL1Jvb3Qg
+MTEgMCBSIC9JbmZvIDkgMCBSIC9JRCBbIDw3MjA4ODgwY2NhNGFhNDY1ZTNmY2U0NjRkMTA0YTRk
+Mz4gPDcyMDg4ODBjY2E0YWE0NjVlM2ZjZTQ2NGQxMDRhNGQzPiBdID4+CnN0YXJ0eHJlZgo3MTM0
+CiUlRU9GCg==
+): Failed to open stream: Invalid argument in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:46 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:48 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:41:54 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:54:06 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:54:07 UTC] PHP Warning:  Undefined array key "email" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 117
+[06-Feb-2024 13:54:07 UTC] PHP Warning:  Undefined array key "first_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 122
+[06-Feb-2024 13:54:07 UTC] PHP Warning:  Undefined array key "last_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 127
+[06-Feb-2024 13:54:07 UTC] PHP Warning:  Undefined array key "date_of_birth" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 132
+[06-Feb-2024 13:54:07 UTC] PHP Warning:  Undefined array key "phone_number" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 137
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:54:16 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function validate_form_fields() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php:35
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(324): handle_form_submission('')
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(643): do_action('init')
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(100): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#8 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 35
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:54:47 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:30 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:31 UTC] PHP Warning:  Undefined array key "email" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 143
+[06-Feb-2024 13:56:31 UTC] PHP Warning:  Undefined array key "first_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 148
+[06-Feb-2024 13:56:31 UTC] PHP Warning:  Undefined array key "last_name" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 153
+[06-Feb-2024 13:56:31 UTC] PHP Warning:  Undefined array key "date_of_birth" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 158
+[06-Feb-2024 13:56:31 UTC] PHP Warning:  Undefined array key "phone_number" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/form-plugin.php on line 163
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:33 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:33 UTC] ERROR PostmanMessage: Unknown content-type: application/pdf
+[06-Feb-2024 13:56:33 UTC] PHP Warning:  file_get_contents(JVBERi0xLjcKJeLjz9MKNyAwIG9iago8PCAvVHlwZSAvUGFnZSAvUGFyZW50IDEgMCBSIC9MYXN0
+TW9kaWZpZWQgKEQ6MjAyNDAyMDYxMzU2MzMrMDAnMDAnKSAvUmVzb3VyY2VzIDIgMCBSIC9NZWRp
+YUJveCBbMC4wMDAwMDAgMC4wMDAwMDAgNTk1LjI3NjAwMCA4NDEuODkwMDAwXSAvQ3JvcEJveCBb
+MC4wMDAwMDAgMC4wMDAwMDAgNTk1LjI3NjAwMCA4NDEuODkwMDAwXSAvQmxlZWRCb3ggWzAuMDAw
+MDAwIDAuMDAwMDAwIDU5NS4yNzYwMDAgODQxLjg5MDAwMF0gL1RyaW1Cb3ggWzAuMDAwMDAwIDAu
+MDAwMDAwIDU5NS4yNzYwMDAgODQxLjg5MDAwMF0gL0FydEJveCBbMC4wMDAwMDAgMC4wMDAwMDAg
+NTk1LjI3NjAwMCA4NDEuODkwMDAwXSAvQ29udGVudHMgOCAwIFIgL1JvdGF0ZSAwIC9Hcm91cCA8
+PCAvVHlwZSAvR3JvdXAgL1MgL1RyYW5zcGFyZW5jeSAvQ1MgL0RldmljZVJHQiA+PiAvQW5ub3Rz
+IFsgNiAwIFIgXSAvUFogMSA+PgplbmRvYmoKOCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2Rl
+IC9MZW5ndGggNDkxPj4gc3RyZWFtCnicrZTNUtswEIDvfoo9wgFFWmltKZe2EGCGQ4dSHzoDHBxb
+/unYGBwHT96+wk4MAykHh7U12llptZ+00nJGAXcCHXC4cu0v3N67LnHt0rXMOw1hdiFAIOO9QJjC
+eejxqY5P4wCfuiJ/v6LYGfgH5eNQ4BOTpMgPIK682Z9QwaL2frlv8p56M4LwJ+zITW5e4TrnB84q
+jM8C9Hte5Xi5kdJAmMDt0Zlt2iIt4qi1UKfwI84L+2wr+9Ae30N4NfJMzNl+HiOZDnSPIzQjo7XG
+ASfMixW4v60h7sk20OZRC98GGfs8WsFqHcd2tUrXZbmBuK4eS9vaBOp1A2ndVGzcwAGkKDnDwdk3
+TiVUSAPqYntkp0XT5nNAjuqE4wni18RVTBjVx/UFM5yMv83YeRUV5RySoioygd+j5TNbZl8SE52z
+wT6mlIzIkNim5TqvHyz8XFdL28yBa6NQCEIaw76+wwmXRO7HYVrS8OgQe2VAqTvbuDQvNxCeXS8u
+4O6o6zrWxo9JyuomuzseoQ54g04Or0n6/Vlo2rPgblKyp96Mys0lvPXHCf4vxDs/TyEjVxU0AWom
+la8ogAqIkAXkS/HWXMLvQ2N7T5+NNxn8904q4kwp1RPxl8JlHFF/D+BzETADsbsJcFA9/ge8uoCO
+CmVuZHN0cmVhbQplbmRvYmoKMSAwIG9iago8PCAvVHlwZSAvUGFnZXMgL0tpZHMgWyA3IDAgUiBd
+IC9Db3VudCAxID4+CmVuZG9iagozIDAgb2JqCjw8L1R5cGUgL0ZvbnQgL1N1YnR5cGUgL1R5cGUx
+IC9CYXNlRm9udCAvSGVsdmV0aWNhIC9OYW1lIC9GMSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGlu
+ZyA+PgplbmRvYmoKNSAwIG9iago8PC9UeXBlIC9Gb250IC9TdWJ0eXBlIC9UeXBlMSAvQmFzZUZv
+bnQgL0hlbHZldGljYS1Cb2xkIC9OYW1lIC9GMiAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyA+
+PgplbmRvYmoKNCAwIG9iago8PCAvVHlwZSAvWE9iamVjdCAvU3VidHlwZSAvRm9ybSAvRm9ybVR5
+cGUgMSAvRmlsdGVyIC9GbGF0ZURlY29kZSAvQkJveCBbMC4wMDAwMDAgMC4wMDAwMDAgNTk1LjI3
+NjAwMCA3Ni41MzU0MzNdIC9NYXRyaXggWzEgMCAwIDEgMCAwXSAvUmVzb3VyY2VzIDw8IC9Qcm9j
+U2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJXSAvRm9udCA8PCAvRjIgNSAw
+IFIgL0YxIDMgMCBSID4+ID4+IC9MZW5ndGggMTcxID4+IHN0cmVhbQp4nKWPPwvCMBDF93yKN+oS
+Lxfzp2tBC93UbKVbURAd7NKv76VQLSiCGngkedzv3V2ZsNoyjNE0HqQjNkmRdmH8DiDUojOaVq5O
+VIlOSpWZNDD0LXnDA3l99CdIsIT1T2+Q3Owa6zV5LgqGjTpaZvJIHZoFli1Snct2MkB0bwaYwrpP
+3fcV5jz/wOcNJ06tWTtT+OhgreYQmAKucI51cN6auX3B4d/ed1ogXIsKZW5kc3RyZWFtCmVuZG9i
+agoyIDAgb2JqCjw8IC9Qcm9jU2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJ
+XSAvRm9udCA8PCAvRjEgMyAwIFIgL0YyIDUgMCBSID4+IC9YT2JqZWN0IDw8IC9YVDQgNCAwIFIg
+Pj4gPj4KZW5kb2JqCjYgMCBvYmoKPDwvVHlwZSAvQW5ub3QgL1N1YnR5cGUgL0xpbmsgL1JlY3Qg
+WzIuODM1MDAwIDEuMDAwMDAwIDE5LjAwNTAwMCAyLjE1NjAwMF0gL1AgNyAwIFIgL05NICgwMDAx
+LTAwMDApIC9NIChEOjIwMjQwMjA2MTM1NjMzKzAwJzAwJykgL0YgNCAvQm9yZGVyIFswIDAgMF0g
+L0EgPDwvUyAvVVJJIC9VUkkgKGh0dHA6Ly93d3cudGNwZGYub3JnKT4+IC9IIC9JPj4KZW5kb2Jq
+CjkgMCBvYmoKPDwgL1RpdGxlICj+/wBDAGUAcgB0AGkAZgBpAGMAYQB0AGUpIC9BdXRob3IgKP7/
+AFkAbwB1AHIAIABOAGEAbQBlKSAvU3ViamVjdCAo/v8AQwBlAHIAdABpAGYAaQBjAGEAdABlKSAv
+S2V5d29yZHMgKP7/AEMAZQByAHQAaQBmAGkAYwBhAHQAZQAsACAAVABDAFAARABGACwAIABQAEQA
+RgAsACAAVwBvAHIAZABQAHIAZQBzAHMpIC9DcmVhdG9yICj+/wBUAEMAUABEAEYpIC9Qcm9kdWNl
+ciAo/v8AVABDAFAARABGACAANgAuADMALgAyACAAXCgAaAB0AHQAcAA6AC8ALwB3AHcAdwAuAHQA
+YwBwAGQAZgAuAG8AcgBnAFwpKSAvQ3JlYXRpb25EYXRlIChEOjIwMjQwMjA2MTM1NjMzKzAwJzAw
+JykgL01vZERhdGUgKEQ6MjAyNDAyMDYxMzU2MzMrMDAnMDAnKSAvVHJhcHBlZCAvRmFsc2UgPj4K
+ZW5kb2JqCjEwIDAgb2JqCjw8IC9UeXBlIC9NZXRhZGF0YSAvU3VidHlwZSAvWE1MIC9MZW5ndGgg
+NDMyNyA+PiBzdHJlYW0KPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6
+TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0i
+QWRvYmUgWE1QIENvcmUgNC4yLjEtYzA0MyA1Mi4zNzI3MjgsIDIwMDkvMDEvMTgtMTU6MDg6MDQi
+PgoJPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1z
+eW50YXgtbnMjIj4KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpkYz0iaHR0
+cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPgoJCQk8ZGM6Zm9ybWF0PmFwcGxpY2F0aW9u
+L3BkZjwvZGM6Zm9ybWF0PgoJCQk8ZGM6dGl0bGU+CgkJCQk8cmRmOkFsdD4KCQkJCQk8cmRmOmxp
+IHhtbDpsYW5nPSJ4LWRlZmF1bHQiPkNlcnRpZmljYXRlPC9yZGY6bGk+CgkJCQk8L3JkZjpBbHQ+
+CgkJCTwvZGM6dGl0bGU+CgkJCTxkYzpjcmVhdG9yPgoJCQkJPHJkZjpTZXE+CgkJCQkJPHJkZjps
+aT5Zb3VyIE5hbWU8L3JkZjpsaT4KCQkJCTwvcmRmOlNlcT4KCQkJPC9kYzpjcmVhdG9yPgoJCQk8
+ZGM6ZGVzY3JpcHRpb24+CgkJCQk8cmRmOkFsdD4KCQkJCQk8cmRmOmxpIHhtbDpsYW5nPSJ4LWRl
+ZmF1bHQiPkNlcnRpZmljYXRlPC9yZGY6bGk+CgkJCQk8L3JkZjpBbHQ+CgkJCTwvZGM6ZGVzY3Jp
+cHRpb24+CgkJCTxkYzpzdWJqZWN0PgoJCQkJPHJkZjpCYWc+CgkJCQkJPHJkZjpsaT5DZXJ0aWZp
+Y2F0ZSwgVENQREYsIFBERiwgV29yZFByZXNzPC9yZGY6bGk+CgkJCQk8L3JkZjpCYWc+CgkJCTwv
+ZGM6c3ViamVjdD4KCQk8L3JkZjpEZXNjcmlwdGlvbj4KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjph
+Ym91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPgoJCQk8eG1w
+OkNyZWF0ZURhdGU+MjAyNC0wMi0wNlQxMzo1NjozMyswMDowMDwveG1wOkNyZWF0ZURhdGU+CgkJ
+CTx4bXA6Q3JlYXRvclRvb2w+VENQREY8L3htcDpDcmVhdG9yVG9vbD4KCQkJPHhtcDpNb2RpZnlE
+YXRlPjIwMjQtMDItMDZUMTM6NTY6MzMrMDA6MDA8L3htcDpNb2RpZnlEYXRlPgoJCQk8eG1wOk1l
+dGFkYXRhRGF0ZT4yMDI0LTAyLTA2VDEzOjU2OjMzKzAwOjAwPC94bXA6TWV0YWRhdGFEYXRlPgoJ
+CTwvcmRmOkRlc2NyaXB0aW9uPgoJCTxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5z
+OnBkZj0iaHR0cDovL25zLmFkb2JlLmNvbS9wZGYvMS4zLyI+CgkJCTxwZGY6S2V5d29yZHM+Q2Vy
+dGlmaWNhdGUsIFRDUERGLCBQREYsIFdvcmRQcmVzczwvcGRmOktleXdvcmRzPgoJCQk8cGRmOlBy
+b2R1Y2VyPlRDUERGIDYuMy4yIChodHRwOi8vd3d3LnRjcGRmLm9yZyk8L3BkZjpQcm9kdWNlcj4K
+CQk8L3JkZjpEZXNjcmlwdGlvbj4KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxu
+czp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyI+CgkJCTx4bXBNTTpEb2N1
+bWVudElEPnV1aWQ6YzkyOTBlNTctMmZhZC0xOWQzLTc1M2QtN2E1N2Q5NWRhNzc1PC94bXBNTTpE
+b2N1bWVudElEPgoJCQk8eG1wTU06SW5zdGFuY2VJRD51dWlkOmM5MjkwZTU3LTJmYWQtMTlkMy03
+NTNkLTdhNTdkOTVkYTc3NTwveG1wTU06SW5zdGFuY2VJRD4KCQk8L3JkZjpEZXNjcmlwdGlvbj4K
+CQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczpwZGZhRXh0ZW5zaW9uPSJodHRw
+Oi8vd3d3LmFpaW0ub3JnL3BkZmEvbnMvZXh0ZW5zaW9uLyIgeG1sbnM6cGRmYVNjaGVtYT0iaHR0
+cDovL3d3dy5haWltLm9yZy9wZGZhL25zL3NjaGVtYSMiIHhtbG5zOnBkZmFQcm9wZXJ0eT0iaHR0
+cDovL3d3dy5haWltLm9yZy9wZGZhL25zL3Byb3BlcnR5IyI+CgkJCTxwZGZhRXh0ZW5zaW9uOnNj
+aGVtYXM+CgkJCQk8cmRmOkJhZz4KCQkJCQk8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJlc291cmNl
+Ij4KCQkJCQkJPHBkZmFTY2hlbWE6bmFtZXNwYWNlVVJJPmh0dHA6Ly9ucy5hZG9iZS5jb20vcGRm
+LzEuMy88L3BkZmFTY2hlbWE6bmFtZXNwYWNlVVJJPgoJCQkJCQk8cGRmYVNjaGVtYTpwcmVmaXg+
+cGRmPC9wZGZhU2NoZW1hOnByZWZpeD4KCQkJCQkJPHBkZmFTY2hlbWE6c2NoZW1hPkFkb2JlIFBE
+RiBTY2hlbWE8L3BkZmFTY2hlbWE6c2NoZW1hPgoJCQkJCTwvcmRmOmxpPgoJCQkJCTxyZGY6bGkg
+cmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgoJCQkJCQk8cGRmYVNjaGVtYTpuYW1lc3BhY2VVUkk+
+aHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLzwvcGRmYVNjaGVtYTpuYW1lc3BhY2VVUkk+
+CgkJCQkJCTxwZGZhU2NoZW1hOnByZWZpeD54bXBNTTwvcGRmYVNjaGVtYTpwcmVmaXg+CgkJCQkJ
+CTxwZGZhU2NoZW1hOnNjaGVtYT5YTVAgTWVkaWEgTWFuYWdlbWVudCBTY2hlbWE8L3BkZmFTY2hl
+bWE6c2NoZW1hPgoJCQkJCQk8cGRmYVNjaGVtYTpwcm9wZXJ0eT4KCQkJCQkJCTxyZGY6U2VxPgoJ
+CQkJCQkJCTxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgoJCQkJCQkJCQk8cGRmYVBy
+b3BlcnR5OmNhdGVnb3J5PmludGVybmFsPC9wZGZhUHJvcGVydHk6Y2F0ZWdvcnk+CgkJCQkJCQkJ
+CTxwZGZhUHJvcGVydHk6ZGVzY3JpcHRpb24+VVVJRCBiYXNlZCBpZGVudGlmaWVyIGZvciBzcGVj
+aWZpYyBpbmNhcm5hdGlvbiBvZiBhIGRvY3VtZW50PC9wZGZhUHJvcGVydHk6ZGVzY3JpcHRpb24+
+CgkJCQkJCQkJCTxwZGZhUHJvcGVydHk6bmFtZT5JbnN0YW5jZUlEPC9wZGZhUHJvcGVydHk6bmFt
+ZT4KCQkJCQkJCQkJPHBkZmFQcm9wZXJ0eTp2YWx1ZVR5cGU+VVJJPC9wZGZhUHJvcGVydHk6dmFs
+dWVUeXBlPgoJCQkJCQkJCTwvcmRmOmxpPgoJCQkJCQkJPC9yZGY6U2VxPgoJCQkJCQk8L3BkZmFT
+Y2hlbWE6cHJvcGVydHk+CgkJCQkJPC9yZGY6bGk+CgkJCQkJPHJkZjpsaSByZGY6cGFyc2VUeXBl
+PSJSZXNvdXJjZSI+CgkJCQkJCTxwZGZhU2NoZW1hOm5hbWVzcGFjZVVSST5odHRwOi8vd3d3LmFp
+aW0ub3JnL3BkZmEvbnMvaWQvPC9wZGZhU2NoZW1hOm5hbWVzcGFjZVVSST4KCQkJCQkJPHBkZmFT
+Y2hlbWE6cHJlZml4PnBkZmFpZDwvcGRmYVNjaGVtYTpwcmVmaXg+CgkJCQkJCTxwZGZhU2NoZW1h
+OnNjaGVtYT5QREYvQSBJRCBTY2hlbWE8L3BkZmFTY2hlbWE6c2NoZW1hPgoJCQkJCQk8cGRmYVNj
+aGVtYTpwcm9wZXJ0eT4KCQkJCQkJCTxyZGY6U2VxPgoJCQkJCQkJCTxyZGY6bGkgcmRmOnBhcnNl
+VHlwZT0iUmVzb3VyY2UiPgoJCQkJCQkJCQk8cGRmYVByb3BlcnR5OmNhdGVnb3J5PmludGVybmFs
+PC9wZGZhUHJvcGVydHk6Y2F0ZWdvcnk+CgkJCQkJCQkJCTxwZGZhUHJvcGVydHk6ZGVzY3JpcHRp
+b24+UGFydCBvZiBQREYvQSBzdGFuZGFyZDwvcGRmYVByb3BlcnR5OmRlc2NyaXB0aW9uPgoJCQkJ
+CQkJCQk8cGRmYVByb3BlcnR5Om5hbWU+cGFydDwvcGRmYVByb3BlcnR5Om5hbWU+CgkJCQkJCQkJ
+CTxwZGZhUHJvcGVydHk6dmFsdWVUeXBlPkludGVnZXI8L3BkZmFQcm9wZXJ0eTp2YWx1ZVR5cGU+
+CgkJCQkJCQkJPC9yZGY6bGk+CgkJCQkJCQkJPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJj
+ZSI+CgkJCQkJCQkJCTxwZGZhUHJvcGVydHk6Y2F0ZWdvcnk+aW50ZXJuYWw8L3BkZmFQcm9wZXJ0
+eTpjYXRlZ29yeT4KCQkJCQkJCQkJPHBkZmFQcm9wZXJ0eTpkZXNjcmlwdGlvbj5BbWVuZG1lbnQg
+b2YgUERGL0Egc3RhbmRhcmQ8L3BkZmFQcm9wZXJ0eTpkZXNjcmlwdGlvbj4KCQkJCQkJCQkJPHBk
+ZmFQcm9wZXJ0eTpuYW1lPmFtZDwvcGRmYVByb3BlcnR5Om5hbWU+CgkJCQkJCQkJCTxwZGZhUHJv
+cGVydHk6dmFsdWVUeXBlPlRleHQ8L3BkZmFQcm9wZXJ0eTp2YWx1ZVR5cGU+CgkJCQkJCQkJPC9y
+ZGY6bGk+CgkJCQkJCQkJPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+CgkJCQkJCQkJ
+CTxwZGZhUHJvcGVydHk6Y2F0ZWdvcnk+aW50ZXJuYWw8L3BkZmFQcm9wZXJ0eTpjYXRlZ29yeT4K
+CQkJCQkJCQkJPHBkZmFQcm9wZXJ0eTpkZXNjcmlwdGlvbj5Db25mb3JtYW5jZSBsZXZlbCBvZiBQ
+REYvQSBzdGFuZGFyZDwvcGRmYVByb3BlcnR5OmRlc2NyaXB0aW9uPgoJCQkJCQkJCQk8cGRmYVBy
+b3BlcnR5Om5hbWU+Y29uZm9ybWFuY2U8L3BkZmFQcm9wZXJ0eTpuYW1lPgoJCQkJCQkJCQk8cGRm
+YVByb3BlcnR5OnZhbHVlVHlwZT5UZXh0PC9wZGZhUHJvcGVydHk6dmFsdWVUeXBlPgoJCQkJCQkJ
+CTwvcmRmOmxpPgoJCQkJCQkJPC9yZGY6U2VxPgoJCQkJCQk8L3BkZmFTY2hlbWE6cHJvcGVydHk+
+CgkJCQkJPC9yZGY6bGk+CgkJCQk8L3JkZjpCYWc+CgkJCTwvcGRmYUV4dGVuc2lvbjpzY2hlbWFz
+PgoJCTwvcmRmOkRlc2NyaXB0aW9uPgoJPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KPD94cGFja2V0
+IGVuZD0idyI/PgplbmRzdHJlYW0KZW5kb2JqCjExIDAgb2JqCjw8IC9UeXBlIC9DYXRhbG9nIC9W
+ZXJzaW9uIC8xLjcgL1BhZ2VzIDEgMCBSIC9OYW1lcyA8PCA+PiAvVmlld2VyUHJlZmVyZW5jZXMg
+PDwgL0RpcmVjdGlvbiAvTDJSID4+IC9QYWdlTGF5b3V0IC9TaW5nbGVQYWdlIC9QYWdlTW9kZSAv
+VXNlTm9uZSAvT3BlbkFjdGlvbiBbNyAwIFIgL0ZpdEggbnVsbF0gL01ldGFkYXRhIDEwIDAgUiA+
+PgplbmRvYmoKeHJlZgowIDEyCjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMTA0NCAwMDAwMCBu
+IAowMDAwMDAxNzY5IDAwMDAwIG4gCjAwMDAwMDExMDMgMDAwMDAgbiAKMDAwMDAwMTMyMCAwMDAw
+MCBuIAowMDAwMDAxMjA5IDAwMDAwIG4gCjAwMDAwMDE4OTQgMDAwMDAgbiAKMDAwMDAwMDAxNSAw
+MDAwMCBuIAowMDAwMDAwNDgzIDAwMDAwIG4gCjAwMDAwMDIxMTAgMDAwMDAgbiAKMDAwMDAwMjUx
+NSAwMDAwMCBuIAowMDAwMDA2OTI1IDAwMDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgMTIgL1Jvb3Qg
+MTEgMCBSIC9JbmZvIDkgMCBSIC9JRCBbIDxjOTI5MGU1NzJmYWQxOWQzNzUzZDdhNTdkOTVkYTc3
+NT4gPGM5MjkwZTU3MmZhZDE5ZDM3NTNkN2E1N2Q5NWRhNzc1PiBdID4+CnN0YXJ0eHJlZgo3MTM0
+CiUlRU9GCg==
+): Failed to open stream: Invalid argument in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/post-smtp/Postman/Postman-Mail/PostmanMessage.php on line 515
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:38 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:40 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:41 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:44 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:56:45 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:57:42 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 13:59:42 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:01:43 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:03:44 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:03:45 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:05:45 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:07:46 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:09:47 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:11:49 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:13:49 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:15:50 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:17:51 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 1998
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $isunicode in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2024
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2040
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $setbom in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2060
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2077
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $currentfont follows optional parameter $str in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_fonts.php on line 2093
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $tagvspaces follows optional parameter $default_css in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 1139
+[06-Feb-2024 14:19:52 UTC] PHP Deprecated:  Required parameter $k follows optional parameter $points in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tcpdf/include/tcpdf_static.php on line 2488
